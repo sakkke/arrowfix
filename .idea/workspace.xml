@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bb18d5a-5e3f-4ee7-83b1-bdbb2dcab2d0" name="Changes" comment="docs: add README.md">
+    <list default="true" id="4bb18d5a-5e3f-4ee7-83b1-bdbb2dcab2d0" name="Changes" comment="docs: add heading 'Installation (WIP)'">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +147,47 @@
       <option name="project" value="LOCAL" />
       <updated>1711668884412</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="docs: add heading 'License'">
+      <option name="closed" value="true" />
+      <created>1711668926849</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711668926849</updated>
+    </task>
+    <task id="LOCAL-00012" summary="chore: update workspace.xml">
+      <option name="closed" value="true" />
+      <created>1711668955346</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711668955346</updated>
+    </task>
+    <task id="LOCAL-00013" summary="docs: add heading 'Description'">
+      <option name="closed" value="true" />
+      <created>1711669574106</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711669574106</updated>
+    </task>
+    <task id="LOCAL-00014" summary="docs: add heading 'Features'">
+      <option name="closed" value="true" />
+      <created>1711669720823</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711669720823</updated>
+    </task>
+    <task id="LOCAL-00015" summary="docs: add heading 'Installation (WIP)'">
+      <option name="closed" value="true" />
+      <created>1711669768870</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711669768870</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -156,9 +197,13 @@
     <MESSAGE value="chore: update build.gradle.kts" />
     <MESSAGE value="chore: add Quartz scheduler" />
     <MESSAGE value="feat: implement plugin" />
-    <MESSAGE value="chore: update workspace.xml" />
     <MESSAGE value="chore: update gradle.xml" />
     <MESSAGE value="docs: add README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: add README.md" />
+    <MESSAGE value="docs: add heading 'License'" />
+    <MESSAGE value="chore: update workspace.xml" />
+    <MESSAGE value="docs: add heading 'Description'" />
+    <MESSAGE value="docs: add heading 'Features'" />
+    <MESSAGE value="docs: add heading 'Installation (WIP)'" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: add heading 'Installation (WIP)'" />
   </component>
 </project>
