@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bb18d5a-5e3f-4ee7-83b1-bdbb2dcab2d0" name="Changes" comment="chore: update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4bb18d5a-5e3f-4ee7-83b1-bdbb2dcab2d0" name="Changes" comment="docs: add README.md">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +122,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711595021948</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="chore: update workspace.xml">
+      <option name="closed" value="true" />
+      <created>1711668861861</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711668861861</updated>
+    </task>
+    <task id="LOCAL-00009" summary="docs">
+      <option name="closed" value="true" />
+      <created>1711668873706</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711668873706</updated>
+    </task>
+    <task id="LOCAL-00010" summary="docs: add README.md">
+      <option name="closed" value="true" />
+      <created>1711668884412</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711668884412</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,6 +157,8 @@
     <MESSAGE value="chore: add Quartz scheduler" />
     <MESSAGE value="feat: implement plugin" />
     <MESSAGE value="chore: update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: update workspace.xml" />
+    <MESSAGE value="chore: update gradle.xml" />
+    <MESSAGE value="docs: add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: add README.md" />
   </component>
 </project>
