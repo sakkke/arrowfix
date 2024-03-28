@@ -13,6 +13,8 @@ repositories {
 dependencies {
     testImplementation("org.jetbrains.kotlin:kotlin-test")
     compileOnly("org.spigotmc:spigot-api:1.20.1-R0.1-SNAPSHOT")
+    // https://mvnrepository.com/artifact/org.quartz-scheduler/quartz
+    implementation("org.quartz-scheduler:quartz:2.3.0")
 }
 
 tasks.test {
