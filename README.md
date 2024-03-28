@@ -15,6 +15,11 @@ performance and gameplay on Minecraft servers.
 2. Place the downloaded `.jar` file into your Minecraft server's `plugins` directory.
 3. Start or restart your server.
 
+## Usage
+
+After installing this plugin, it will automatically clear all arrows every hour, enhancing server performance and
+gameplay.
+
 ## License
 
 [MIT](./LICENSE)
