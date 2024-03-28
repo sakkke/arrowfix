@@ -1,1 +1,5 @@
 # Arrowfix
+
+## License
+
+[MIT](./LICENSE)
