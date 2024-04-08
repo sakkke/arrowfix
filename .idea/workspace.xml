@@ -273,7 +273,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712379868102</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="build: remove 'v' from version">
+      <option name="closed" value="true" />
+      <created>1712444612392</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1712444612392</updated>
+    </task>
+    <task id="LOCAL-00025" summary="chore: update workspace.xml">
+      <option name="closed" value="true" />
+      <created>1712444625654</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1712444625654</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -295,6 +311,7 @@
     <MESSAGE value="ci: add release workflow" />
     <MESSAGE value="build: add Git versioning logic" />
     <MESSAGE value="refactor: simplify jar task" />
+    <MESSAGE value="build: remove 'v' from version" />
     <MESSAGE value="chore: update workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="chore: update workspace.xml" />
   </component>
